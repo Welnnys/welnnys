@@ -1,5 +1,5 @@
 </p>
-![Profile View Counter](https://komarev.com/ghpvc/?username=welnnys&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 </p
 
