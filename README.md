@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=welnnys&color=green)
+![](https://komarev.com/ghpvc/?username=welnnys&label=PROFILE+VIEWS)
 </p>
 
 
